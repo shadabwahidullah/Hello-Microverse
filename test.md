@@ -1,1 +1,1 @@
-this should be ignored by gits
+this should be ignored by git
